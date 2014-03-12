@@ -215,6 +215,6 @@ end
 api_tests
 
 # Node Manipulation tests
-node_manipulation
+#node_manipulation
 
 exit @rc
